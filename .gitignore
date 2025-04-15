@@ -1,0 +1,35 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific settings
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS junk
+.DS_Store
+
+# Auto-generated
+*.pidb
+*.booproj
+
+# Crash reports
+sysinfo.txt
+
+# Rider/VS Code/JetBrains
+.idea/
+.vscode/
+*.code-workspace
+
+# Packages
+Packages/packages-lock.json
