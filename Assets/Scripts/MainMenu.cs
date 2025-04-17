@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     public void StartGame(){
-        SceneManager.LoadScene("SelectNumPlayers");
+        SceneManager.LoadScene("Lobby");
     }
 
     public void OpenTutorial(){
