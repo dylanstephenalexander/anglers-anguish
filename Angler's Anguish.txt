@@ -1,0 +1,65 @@
+### 1. Game Overview 
+
+Title: Angler's Anguish
+Genre: Board Game
+Platform: Desktop
+Player Count: 2 - 6 players
+Objective: Be the richest fisherman by the time a player reaches the ocean floor. 
+Victory Condition: The turn where the first player reaches the ocean floor will be the last turn. The goal is to have amassed the most gold amongst players by the time the game ends.
+
+### 2. Comprehensive Game Summary
+
+Players start at the dock with nothing but a basic rod. Turn order will have been predetermined randomly before the game begins. Granted that your turn has not been skipped, players roll the dice to determine the number of spaces they may move (vertically, horizontally, or a mix of both). Cards are laid out in grid format. Rows of fish cards with a few rows of treasure cards mixed in. Each player is standing on a different spot on the 'dock' and thus the same card will take differing amounts of spaces to reach, depending on that player's starting position. When a row has been thoroughly picked apart, the row will vanish and the next row will rise to the top. The 'ocean floor' will be declared when it appears on the board, and from that moment, any card can be chosen from the ocean floor, making the current turn the last. The players may visit the 'Port' a maximum of 3 times, strategically. At the Port players can sell their collection of fish, as well as purchase items (improved rods, bait, perks, and other items). Any fish held in a player's inventory will not count towards their gold count. Additionally, certain cards may facilitate stealing player's fish, so a player will be aiming to offload their fish sooner rather than later. 
+
+### 3. Core Gameplay Loop 
+
+Start of Turn: Player rolls the dice to determine number of spaces they can move this turn. Players may choose to move less spaces than this amount.
+Movement Phase: Player moves their hook vertically or horizontally to their preferred card.
+Selection Phase: Players choose the card they wish to select and draw that card. 
+Port Phase (Optional): Players may sell fish and purchase items at the port, up to a maximum of three times per game.
+End Turn: Play has the option to apply class abilities before ending their turn.
+
+### 4. Player Classes
+
+At the start of the game, each player selects a Fisherman class. These are exclusive, and once chosen, no other player may select the same class.
+
+Classes: 
+The Old Man - Receives a seniors discount at the shop.
+The Pirate - Able to steal 1 gold from a player each turn. (max 2 gold from 1 person).
+The Kayaker - Able to take 2 turns at the cost of skipping their next turn. No limit on usage.
+The Scout - Able to reveal 5 cards to himself wherever on board. (once per game).
+The Crabber - Forgoes dice rolling altogether, instead jumping to whichever card they choose. (3-turn cooldown on this).
+The Diver - Able to break another player's rod by rolling exact # onto it. 
+
+### 5. Board
+
+Board Layout: The Board is 5 spaces wide. The Host can choose from 10, 20, 30 or 40 spaces high at the start of the game. Each space will have a card, until that card is chosen. It will then become blank until that row is removed from the game. 
+
+### 6. Cards 
+
+Types of Cards will include: 
+Fish Cards - Sellable for gold. Different fish will be worth different amounts. It is not clear what fish you've received until you select the card. 
+Junk Cards - Will masquerade as some other type of card. It won't be clear you've received a junk card until it's too late.
+Treasure Card - Will provide desirable items and perks.
+
+### 7. Items and Merchant 
+
+Items can be purchased from the Merchant that resides in the Port, or obtained from Treasure Cards.
+
+Items are yet to be determined.
+
+Merchants will also sell improved rods and perks.
+
+These are also yet to be determined.
+
+### 8. Rules and Conditions
+
+Turn Order: Determined at random before the game starts. Is kept this way for the duration of the game.
+Card Limit: N/A
+Tie Breaker: To be determined.
+
+
+### 9. Multiplayer Considerations 
+
+To be determined.
+
